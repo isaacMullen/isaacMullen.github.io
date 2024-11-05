@@ -30,6 +30,10 @@ github_username:  isaacMullen
 
 # Build settings
 theme: minima
+header_pages:
+  - projects.md
+  - contacts.md
+  - events.md
 plugins:
   - jekyll-feed
 
