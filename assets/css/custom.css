@@ -1,0 +1,11 @@
+.site-title {
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+  }
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 50px;
+  }

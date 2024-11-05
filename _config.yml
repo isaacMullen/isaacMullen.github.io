@@ -32,6 +32,7 @@ github_username:  isaacMullen
 theme: minima
 header_pages:
   - projects.md
+  - about.md
   - contacts.md
   - events.md
 plugins:
