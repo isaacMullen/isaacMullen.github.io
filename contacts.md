@@ -2,6 +2,7 @@
 layout: page
 title: CONTACT ME
 permalink: /contacts/
+body-class: contact-page
 ---
 
 # Contact Form (Email)

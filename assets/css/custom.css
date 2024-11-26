@@ -55,9 +55,28 @@
   button:hover {
     background-color: #45a049;
   }
+  
   small {
     display: block;
     font-size: 0.9em;
     color: #666; 
     margin-top: -10px;   
+  }
+  
+  .wrapper {
+    max-width: -webkit-calc(800px - (30px * 2));
+    max-width: calc(1600px - 30px * 2);
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .contact-page .post-content h1 {
+    font-size: 32px;
+    margin-left: 525px;
+        
+  }
+  
+  .contact-page .post-content p {
+    margin-left: 525px;
   }
