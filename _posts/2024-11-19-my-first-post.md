@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Youtube Videos
-date: 2024-11-19
 permalink: /videos/
 ---
 

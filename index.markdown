@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+#Posts Page
+
+HEY!
